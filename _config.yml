@@ -15,8 +15,8 @@ default-image: /assets/images/byron-chilled-logo.png # This image will be shown 
 
 # Author details shows up at the end of every article
 author:
-  name: John Doe
-  bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
+  name: Byron Chilled
+  bio: "Byron Chilled is a fermented chilli dip made in the hinterlands of Byron Bay."
   image: /assets/images/author-image.jpg # Choose a 200x200px image and place it inside /images directory.
   facebook: https://facebook.com
   twitter: https://twitter.com
