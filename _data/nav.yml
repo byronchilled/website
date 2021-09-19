@@ -22,8 +22,8 @@
     - title: Fermented Chilli - Hot
       link: /products/fermented-chilli-hot
 
-- title: More
-  dropdown:
-    - title: Testimonials
-      link: /testimonials/
+# - title: More
+#   dropdown:
+#     - title: Testimonials
+#       link: /testimonials/
 
