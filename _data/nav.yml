@@ -13,12 +13,17 @@
 - title: Categories
   link: '/categories/'
 
-- title: Portfolio
+- title: Our Products
+  dropdown:
+    - title: Fermented Chilli - Mild
+      link: /products/fermented-chilli-mild
+    - title: Fermented Chilli - Green
+      link: /products/fermented-chilli-green
+    - title: Fermented Chilli - Hot
+      link: /products/fermented-chilli-hot
+
+- title: More
   dropdown:
     - title: Testimonials
       link: /testimonials/
-    - title: Item
-      link: /portfolio/
-    - title: Another Item
-      link: /portfolio/
 

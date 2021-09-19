@@ -3,27 +3,17 @@
   image: /assets/images/portfolio/chilli-mild.jpg
   link: /products/fermented-chilli-mild
 
-- title: Fermented Chilli Dip - HOT
-  category: Chilli
-  image: /assets/images/portfolio/chilli-hot.jpg
-  link: /about/
-
 - title: Fermented Chilli Dip - GREEN
   category: Chilli
   image: /assets/images/portfolio/chilli-green.jpg
-  link: /portfolio/
+  link: /products/fermented-chilli-green
+
+- title: Fermented Chilli Dip - HOT
+  category: Chilli
+  image: /assets/images/portfolio/chilli-hot.jpg
+  link: /products/fermented-chilli-hot
 
 # - title: Pantone
 #   category: Photography
 #   image: /assets/images/portfolio/autri-taheri-435297-unsplash.jpg
-#   link: /portfolio/
-
-# - title: Leaf
-#   category: Photography
-#   image: /assets/images/portfolio/agata-create-1098094-unsplash.jpg
-#   link: /portfolio/
-
-# - title: Apartment
-#   category: Photography
-#   image: /assets/images/portfolio/erol-ahmed-255854-unsplash.jpg
 #   link: /portfolio/
