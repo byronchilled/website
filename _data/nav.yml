@@ -7,11 +7,12 @@
 - title: Contact
   link: '/contact/'
   
-- title: Blog
+- title: Recipes
   link: '/blog/'
   
-- title: Categories
-  link: '/categories/'
+# This section lets you organise all blog posts by 
+# - title: Categories
+#   link: '/categories/'
 
 - title: Products
   dropdown:
