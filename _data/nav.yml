@@ -16,11 +16,11 @@
 
 - title: Products
   dropdown:
-    - title: Fermented Chilli - Mild
-      link: /products/fermented-chilli-mild
-    - title: Fermented Chilli - Green
+    - title: Fermented Chilli Dip - Original
+      link: /products/fermented-chilli-original
+    - title: Fermented Chilli Dip - Green
       link: /products/fermented-chilli-green
-    - title: Fermented Chilli - Hot
+    - title: Fermented Chilli Dip - Hot
       link: /products/fermented-chilli-hot
 
 # - title: More
