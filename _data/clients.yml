@@ -27,3 +27,15 @@
 
 - name: Dainty Food
   image: /assets/images/customers/dainty-food.jpg
+
+- name: Bloom.
+  image: /assets/images/customers/bloom.png
+
+- name: Spar Express
+  image: /assets/images/customers/spar-express-byron-bay.png
+
+- name: Edens Landing
+  image: /assets/images/customers/edens-landing.png
+
+- name: Byron Bay Olive Co.
+  image: /assets/images/customers/byron-bay-olive-co.png
