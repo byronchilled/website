@@ -17,13 +17,7 @@
 #   image: /assets/images/customers/yoga-baby.svg
 
 - name: Krinskeys
-  image: /assets/images/customers/krinskys.svg
-
-- name: Krinskeys
   image: /assets/images/customers/krinskys.jpg
-
-- name: Dainty Food
-  image: /assets/images/customers/dainty-food.svg
 
 - name: Dainty Food
   image: /assets/images/customers/dainty-food.jpg
