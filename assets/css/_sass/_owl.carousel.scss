@@ -190,7 +190,7 @@
 .owl-carousel.carousel-1{
 
   .item {
-      height: 100vh;
+      height: 70vh;
 
       @include media-query($on-palm) {
     		height: 260px;
