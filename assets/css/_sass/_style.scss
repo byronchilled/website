@@ -380,7 +380,7 @@ a.nav-link.active {
   font-weight: 600;
   color: $brand-color !important;
   font-family: 'Kaushan Script', cursive; // logo font
-  text-transform: lowercase;
+  text-transform: capitalize;
 
   &:hover {
     opacity: 0.8;
