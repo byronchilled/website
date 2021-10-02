@@ -17,19 +17,19 @@
 #   image: /assets/images/customers/yoga-baby.svg
 
 - name: Krinskeys
-  image: /assets/images/customers/krinskys.jpg
+  image: /assets/images/customers/krinskys.svg
 
 - name: Dainty Food
-  image: /assets/images/customers/dainty-food.jpg
+  image: /assets/images/customers/dainty-food.svg
 
 - name: Bloom.
-  image: /assets/images/customers/bloom.png
+  image: /assets/images/customers/bloom.svg
 
 - name: Spar Express
-  image: /assets/images/customers/spar-express-byron-bay.png
+  image: /assets/images/customers/spar-express-byron-bay.svg
 
 - name: Edens Landing
-  image: /assets/images/customers/edens-landing.png
+  image: /assets/images/customers/edens-landing.svg
 
 - name: Byron Bay Olive Co.
-  image: /assets/images/customers/byron-bay-olive-co.png
+  image: /assets/images/customers/byron-bay-olive-co.svg
