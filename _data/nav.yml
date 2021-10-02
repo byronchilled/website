@@ -5,10 +5,10 @@
   dropdown:
     - title: Our Story
       link: '/our-story/'
-    # - title: Where to buy
-      # link: '/about/'
+    - title: Where to buy
+      link: '/find-us-in-stores/'
     # - title: Health Benefits
-      # link: '/about/'    
+      # link: '/health-benefits/'    
   
 # This section lets you organise all blog posts by 
 # - title: Categories
