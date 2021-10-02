@@ -379,6 +379,7 @@ a.nav-link.active {
 .navbar-brand {
   font-weight: 600;
   color: $brand-color !important;
+  font-family: 'Kaushan Script', cursive; // logo font
 
   &:hover {
     opacity: 0.8;
