@@ -2,13 +2,13 @@
   link: '/'
   
 - title: About
-  link: '/about/'
-
-- title: Contact
-  link: '/contact/'
-  
-- title: Recipes
-  link: '/blog/'
+  dropdown:
+    - title: Our Story
+      link: '/our-story/'
+    # - title: Where to buy
+      # link: '/about/'
+    # - title: Health Benefits
+      # link: '/about/'    
   
 # This section lets you organise all blog posts by 
 # - title: Categories
@@ -22,6 +22,12 @@
       link: /products/fermented-chilli-green
     - title: Fermented Chilli Dip - Hot
       link: /products/fermented-chilli-hot
+
+- title: Recipes
+  link: '/blog/'
+
+- title: Contact
+  link: '/contact/'
 
 # - title: More
 #   dropdown:
